@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Valentina-ortiz
+ <img-origen prtada>
+ 👋 Hi, I’m @Valentina-ortiz
 - 👀 I’m interested in Nutrición y tecnologia educativa
 - - 🌱 I’m currently learning Tecnologias Educativas
 - 💞️ I’m looking to collaborate on ...
